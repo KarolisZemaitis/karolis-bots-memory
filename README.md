@@ -4,5 +4,5 @@ Shared memory repository for Karolis's bots. Each bot/task gets its own root-lev
 
 ## Structure
 
-- `claude-code/` - Claude Code bot workspace
+- `auto-fraud-discovery/` - Claude Code (Karolis's main assistant) — owner of this folder
 - (more folders will be added for other bots/tasks)
