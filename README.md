@@ -1,9 +1,8 @@
 # Karolis Bots Memory
 
-Shared memory repository for Karolis's Claude bots. This repo serves as persistent, version-controlled storage that bots can read from and write to across sessions.
+Shared memory repository for Karolis's bots. Each bot/task gets its own root-level folder.
 
 ## Structure
 
-- `memory/` - Shared memory files (context, references, preferences)
-- `tasks/` - Task-specific data and outputs
-- `config/` - Bot configuration and prompts
+- `claude-code/` - Claude Code bot workspace
+- (more folders will be added for other bots/tasks)
