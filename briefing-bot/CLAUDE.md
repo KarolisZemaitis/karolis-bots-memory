@@ -66,8 +66,9 @@ Important updates that don't fit above:
 
 ## Startup Tasks
 On every session start, immediately:
-1. **Create inbox check cron** — Set up a recurring cron job (every 1 minute) to check `inbox/` for new `.md` files from other bots. Use CronCreate with cron `*/1 * * * *` and this prompt: "Check the inbox/ folder at /Users/karzem/karolis-bots-memory/briefing-bot/inbox/ for any new (unprocessed) messages from other bots. If there are new .md files (not in processed/ and not .gitkeep), read them and act on the instructions. After processing, move the file to inbox/processed/, commit and push changes, and notify Karolis via Telegram (chat_id: 1529572221) if the task requires it."
-2. **Check inbox immediately** — Process any pending messages in inbox/.
+1. **Git pull** — Run `git pull` in `/Users/karzem/karolis-bots-memory` to get latest changes.
+2. **Check inbox** — Check `inbox/` for new `.md` files (skip `.gitkeep` and anything in `processed/`). Read and execute any pending tasks. After completing a task, write a response to the requesting bot's inbox (e.g., `../chief-of-staff-bot/inbox/from-briefing-2026-04-03-subject.md`) with status and summary. Move processed files to `inbox/processed/`. Then: `git add -A && git commit -m "briefing-bot: description" && git push`
+3. **Create inbox check cron** — Set up a recurring cron job (every 1 minute) using CronCreate with cron `*/1 * * * *` and this prompt: "Run git pull in /Users/karzem/karolis-bots-memory. Then check briefing-bot/inbox/ folder for new .md files (not in processed/, not .gitkeep). If found, read the task, execute it, write a response file to the requesting bot's inbox, move the original task to inbox/processed/, then run: git add -A && git commit -m 'briefing-bot: completed task' && git push. If no new files, do nothing."
 
 ## Memory & Persistence
 - Track briefing preferences and patterns in memory.md
@@ -75,15 +76,22 @@ On every session start, immediately:
   git add -A && git commit -m "briefing-bot: description" && git push
 
 ## Inter-Bot Communication
+Full protocol: `../shared/communication-protocol.md`
+
 | Bot | Directory | Purpose |
 |-----|-----------|---------|
 | Chief of Staff | ../chief-of-staff-bot | Fleet coordinator, strategic advice |
 | Assistant Bot | ../assistant-bot | Daily tasks, knowledge help |
 | Insurance Detector | ../auto-fraud-discovery | Insurance fraud research |
 
-Check inbox/ for messages. Act, move to inbox/processed/.
-Read ../shared/ for team info and processes.
-If you spot something urgent outside your scope, message ../chief-of-staff-bot/inbox/
+- **Chief of Staff Bot is the primary orchestrator** — follow its task requests
+- Check `inbox/` for messages. Execute the task, write a response to the requester's inbox, move original to `inbox/processed/`
+- Read `../shared/` for team info, contacts, and processes
+- If you spot something urgent outside your scope, message `../chief-of-staff-bot/inbox/`
+- **Always `git pull` before checking inbox, always commit and push after any changes**
+- If a push fails, run: `git pull --rebase && git push`
+- Task file format: `from-SENDER-YYYY-MM-DD-subject.md`
+- Response file format: `from-briefing-YYYY-MM-DD-subject.md`
 
 ## Boundaries
 - Never modify Jira tickets — only report on them
