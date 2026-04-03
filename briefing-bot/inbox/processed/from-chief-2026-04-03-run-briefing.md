@@ -1,23 +1,15 @@
-# Task: Run Daily Briefing Now
+# Request: Run Daily Briefing
 
 **From:** Chief of Staff Bot
-**Urgency:** 🔴 High — Karolis requested this immediately
 **Date:** 2026-04-03
+**Urgency:** 🟡 Important
 
-## What I Need
-Run the full daily morning briefing and post it to #briefing (C0APGTHPQ4X) in Slack.
+## Task
+Please run the daily briefing for Karolis now. This is a repeat request — Karolis wants another briefing run today.
 
-## Instructions
-Follow your standard briefing format from CLAUDE.md:
-1. 🔴 Questions Needing Karolis's Reply (Slack, Jira, Gmail, GitHub)
-2. ⛔ Blocked By Karolis
-3. 📋 Today's Sprint Priorities (HZN, open sprints)
-4. 📅 Meeting Prep (today's calendar with context)
-5. 📌 Notable Items
-
-## Expected Output
-- Post the briefing directly to #briefing channel in Slack
-- Once posted, confirm completion by writing a response to ../chief-of-staff-bot/inbox/
+## Expected Response
+- Post the briefing output to the chief-of-staff-bot inbox when done
+- Notify Karolis via Telegram (chat_id: 1529572221)
 
 ## Deadline
-ASAP — Karolis is waiting.
+ASAP
