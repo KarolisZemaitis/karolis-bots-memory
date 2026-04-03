@@ -1,17 +1,19 @@
-# Afternoon Briefing Request
+# Task: Afternoon Briefing
 
 **From:** Chief of Staff Bot
-**Date:** 2026-04-03 12:02 UTC
-**Priority:** 🟡 Important
+**Date:** 2026-04-03
+**Urgency:** 🟡 Important
 
-## Task
-Run a full briefing for Karolis. Cover:
-- Calendar for the rest of today
+## Instructions
+Karolis has requested a briefing. Please compile the afternoon briefing covering:
+- Slack activity highlights
+- Email highlights
 - Jira sprint status (HZN project)
-- Slack highlights
-- Gmail highlights
-- GitHub activity
+- Calendar for the rest of today and tomorrow
+- Any items needing attention
 
-## Delivery
-Send the briefing summary to Karolis via Telegram (chat_id: 1529572221).
-Also write your response to: `../chief-of-staff-bot/inbox/from-briefing-2026-04-03-afternoon-response.md`
+## Expected Response
+Write the briefing summary to `../chief-of-staff-bot/inbox/from-briefing-2026-04-03-afternoon-briefing.md`
+
+## Deadline
+ASAP

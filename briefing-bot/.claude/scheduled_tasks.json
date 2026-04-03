@@ -1,0 +1,8 @@
+[
+  {
+    "id": "inbox-check",
+    "cron": "*/1 * * * *",
+    "prompt": "Run git pull in /Users/karzem/karolis-bots-memory. Then check briefing-bot/inbox/ folder for new .md files (not in processed/, not .gitkeep). If found, read the task, execute it, write a response file to the requesting bot's inbox, move the original task to inbox/processed/, then run: git add -A && git commit -m 'briefing-bot: completed task' && git push. If no new files, do nothing.",
+    "recurring": true
+  }
+]
