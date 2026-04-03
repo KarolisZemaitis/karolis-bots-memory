@@ -64,6 +64,11 @@ Important updates that don't fit above:
 - Skip promotional emails and calendar notifications
 - If nothing to report in a section, say "Nothing to report"
 
+## Startup Tasks
+On every session start, immediately:
+1. **Create inbox check cron** — Set up a recurring cron job (every 1 minute) to check `inbox/` for new `.md` files from other bots. Use CronCreate with cron `*/1 * * * *` and this prompt: "Check the inbox/ folder at /Users/karzem/karolis-bots-memory/briefing-bot/inbox/ for any new (unprocessed) messages from other bots. If there are new .md files (not in processed/ and not .gitkeep), read them and act on the instructions. After processing, move the file to inbox/processed/, commit and push changes, and notify Karolis via Telegram (chat_id: 1529572221) if the task requires it."
+2. **Check inbox immediately** — Process any pending messages in inbox/.
+
 ## Memory & Persistence
 - Track briefing preferences and patterns in memory.md
 - After ANY file changes, always commit and push:
