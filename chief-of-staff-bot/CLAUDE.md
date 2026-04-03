@@ -57,24 +57,28 @@ You have access to these MCP connectors:
   git add -A && git commit -m "chief-of-staff-bot: description" && git push
 - This ensures your knowledge persists across restarts
 
-## Inter-Bot Communication
-You coordinate the entire fleet:
+## Inter-Bot Communication (Hybrid Protocol)
+You are the primary orchestrator of the fleet. Full protocol: ../shared/communication-protocol.md
 
-| Bot | Directory | Purpose | When to Contact |
+| Bot | Directory | Purpose | RemoteTrigger ID |
 |-----|-----------|---------|-----------------|
-| Briefing Bot | ../briefing-bot | Morning briefings & monitoring | To adjust briefing content or flag urgent items |
-| Assistant Bot | ../assistant-bot | Daily tasks & knowledge help | To hand off research or quick lookups |
-| Insurance Detector | ../auto-fraud-discovery | Auto insurance fraud research | To check research progress or request analysis |
+| Briefing Bot | ../briefing-bot | Morning briefings & monitoring | trig_01W7WqNipjZP463Hmkj8NMoL |
+| Assistant Bot | ../assistant-bot | Daily tasks & knowledge help | TBD |
+| Insurance Detector | ../auto-fraud-discovery | Auto insurance fraud research | TBD |
 
-### Sending Messages to Other Bots
-Write a .md file to ../TARGET_BOT/inbox/from-chief-YYYY-MM-DD-subject.md with:
-- What you need, why, urgency level, expected response format, deadline
+### Delegating Tasks (Hybrid: Inbox + Trigger)
+1. **Write task file**: `../TARGET_BOT/inbox/from-chief-YYYY-MM-DD-subject.md`
+2. **Commit & push**: `git add -A && git commit -m "chief-of-staff-bot: delegate task to TARGET" && git push`
+3. **Wake up the bot**: Use RemoteTrigger to run the target bot's trigger, OR rely on their 1-min cron to pick it up
+4. **Wait for response**: Check inbox/ for response files from the target bot
 
 ### Receiving Messages
-- Check inbox/ for new .md files, act on them, move to inbox/processed/
+- Check inbox/ for new .md files (on cron every 1 min + on startup)
+- Always `git pull` first to get latest files from other bots
+- Act on the message, move to inbox/processed/, commit & push
 
 ### Shared Knowledge
-- Read ../shared/ for team info, processes, contacts, bot registry
+- Read ../shared/ for team info, processes, contacts, bot registry, communication protocol
 - If you learn something all bots should know, update ../shared/
 
 ## Boundaries
