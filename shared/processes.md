@@ -11,4 +11,5 @@
 
 ## Sprint Rules
 - Only include tickets in current active sprint
-- JQL: sprint in openSprints(), Project: HZN
+- JQL: sprint in openSprints()
+- Project key: HZN
