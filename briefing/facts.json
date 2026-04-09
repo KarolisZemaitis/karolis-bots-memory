@@ -19,6 +19,21 @@
     "importance": 0.6,
     "updated_at": "2026-04-09T19:00:39.641289+00:00"
   },
+  "insurance_fraud_confluence_page": {
+    "value": "Confluence page on insurance fraud detailing staged collisions (Swoop and Squat) in automotive fraud",
+    "importance": 0.6,
+    "updated_at": "2026-04-09T19:14:21.377434+00:00"
+  },
+  "insurance_scams_confluence_page": {
+    "value": "Confluence page on insurance scams covering impersonation tactics and fraudulent activities related to Medicare card issuance",
+    "importance": 0.5,
+    "updated_at": "2026-04-09T19:14:21.379291+00:00"
+  },
+  "jira_api_migration": {
+    "value": "Error message indicates migration to new API needed",
+    "importance": 0.9,
+    "updated_at": "2026-04-09T19:14:21.373889+00:00"
+  },
   "phantombuster_notification": {
     "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
     "importance": 0.7,
