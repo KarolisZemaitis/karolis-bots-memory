@@ -1,4 +1,16 @@
 {
+  "goals_summary": {
+    "value": "Goals are efficiency management, communication intelligence through briefings, task execution without unnecessary delegation, and effective error handling.",
+    "written_by": "chief_of_staff",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T18:46:09.138010+00:00"
+  },
+  "prompt_rules_summary": {
+    "value": "Rules include conciseness & clarity, professionalism, proactivity, and directness & transparency.",
+    "written_by": "chief_of_staff",
+    "importance": 0.5,
+    "updated_at": "2026-04-09T18:46:01.878231+00:00"
+  },
   "reply_restrictions": {
     "value": "Do not reply to private messages. Only respond in the 'briefing' channel.",
     "written_by": "chief_of_staff",
