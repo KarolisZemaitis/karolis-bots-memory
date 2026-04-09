@@ -20,8 +20,8 @@
   "reply_restrictions": {
     "value": "Do not reply to private messages. Only respond in the 'briefing' channel.",
     "written_by": "chief_of_staff",
-    "importance": 0.8,
-    "updated_at": "2026-04-09T18:28:18.963771+00:00"
+    "importance": 0.5,
+    "updated_at": "2026-04-09T19:01:43.592663+00:00"
   },
   "slack_communication_rules": {
     "value": "Task-oriented discussions, use designated channels as per the 'reply_restrictions' rule (no private messages for assistant responses).",
