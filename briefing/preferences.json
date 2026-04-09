@@ -3,5 +3,10 @@
     "value": "48 unread emails across G Suite, Slack, Jira, and Confluence",
     "importance": 0.7,
     "updated_at": "2026-04-09T19:14:21.370368+00:00"
+  },
+  "slack_new_user": {
+    "value": "User U0ASRF6N1LG has joined the 'briefing' channel.",
+    "importance": 0.8,
+    "updated_at": "2026-04-09T19:23:22.165937+00:00"
   }
 }
