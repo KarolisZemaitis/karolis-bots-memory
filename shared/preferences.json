@@ -11,10 +11,22 @@
     "importance": 0.5,
     "updated_at": "2026-04-09T18:46:01.878231+00:00"
   },
+  "reply_restriction_channel": {
+    "value": "\"The 'briefing' channel is the sole permissible location for initiating conversations with the assistant, in accordance with established reply restrictions and communication rules.\"",
+    "written_by": "chief_of_staff",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T18:48:10.208226+00:00"
+  },
   "reply_restrictions": {
     "value": "Do not reply to private messages. Only respond in the 'briefing' channel.",
     "written_by": "chief_of_staff",
     "importance": 0.8,
     "updated_at": "2026-04-09T18:28:18.963771+00:00"
+  },
+  "slack_communication_rules": {
+    "value": "Task-oriented discussions, use designated channels as per the 'reply_restrictions' rule (no private messages for assistant responses).",
+    "written_by": "chief_of_staff",
+    "importance": 0.8,
+    "updated_at": "2026-04-09T18:47:59.614864+00:00"
   }
 }
