@@ -1,0 +1,7 @@
+{
+  "jira_api_migration": {
+    "value": "The Jira API endpoint has been removed; migration to /rest/api/3/search/jql is necessary.",
+    "importance": 0.9,
+    "updated_at": "2026-04-09T19:00:39.632320+00:00"
+  }
+}
