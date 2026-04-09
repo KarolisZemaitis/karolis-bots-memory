@@ -1,0 +1,14 @@
+{
+  "reply_restrictions": {
+    "value": "Do not reply to private messages. Only respond in the 'briefing' channel.",
+    "written_by": "chief_of_staff",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T18:27:38.135288+00:00"
+  },
+  "task_completion_response": {
+    "value": "Always respond when a task is completed.",
+    "written_by": "chief_of_staff",
+    "importance": 0.6,
+    "updated_at": "2026-04-09T18:28:24.800662+00:00"
+  }
+}
