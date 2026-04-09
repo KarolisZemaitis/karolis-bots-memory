@@ -1,0 +1,27 @@
+{
+  "confluence_insurance_fraud": {
+    "value": "Confluence page on insurance fraud detailing staged collisions (Swoop and Squat) in automotive fraud.",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T19:00:39.640457+00:00"
+  },
+  "confluence_insurance_scams": {
+    "value": "Insurance scams section covers impersonation tactics and fraudulent activities related to Medicare card issuance.",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T19:00:39.643410+00:00"
+  },
+  "confluence_project_skia": {
+    "value": "Project Skia page available in Confluence, includes briefs and technical guides related to Dark Web intelligence.",
+    "importance": 0.8,
+    "updated_at": "2026-04-09T19:00:39.639340+00:00"
+  },
+  "confluence_services_dns_inventory": {
+    "value": "Services DNS Inventory page provides details on services exposed via load balancers in the development environment.",
+    "importance": 0.6,
+    "updated_at": "2026-04-09T19:00:39.641289+00:00"
+  },
+  "phantombuster_notification": {
+    "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
+    "importance": 0.7,
+    "updated_at": "2026-04-09T19:00:39.638186+00:00"
+  }
+}
