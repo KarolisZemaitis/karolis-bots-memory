@@ -3,5 +3,10 @@
     "value": "User requested to check if Briefing Bot is running.",
     "importance": 0.7,
     "updated_at": "2026-04-09T18:30:25.757757+00:00"
+  },
+  "briefing_issue_retry": {
+    "value": "There was an issue with the previous briefing attempt, but a new full briefing has been initiated successfully.",
+    "importance": 0.8,
+    "updated_at": "2026-04-09T18:52:34.595455+00:00"
   }
 }
