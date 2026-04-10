@@ -4,6 +4,16 @@
     "importance": 1.0,
     "updated_at": "2026-04-10T07:55:47.866888+00:00"
   },
+  "briefing_user_ids": {
+    "value": "Use names instead of Slack user IDs in briefings.",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T08:06:33.374049+00:00"
+  },
+  "email_highlight_preference": {
+    "value": "Only report important emails in the highlights.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T08:06:45.016002+00:00"
+  },
   "email_unread_count": {
     "value": "48 unread emails across G Suite, Slack, Jira, and Confluence",
     "importance": 0.7,
