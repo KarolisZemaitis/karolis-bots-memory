@@ -14,6 +14,11 @@
     "importance": 0.9,
     "updated_at": "2026-04-10T07:21:43.218428+00:00"
   },
+  "startup_notification_request": {
+    "value": "User requests to be notified after each startup that the assistant is up and running.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T07:47:04.835874+00:00"
+  },
   "task_completion_response": {
     "value": "Always respond when a task is completed.",
     "importance": 1.0,
