@@ -5,14 +5,14 @@
     "updated_at": "2026-04-09T19:00:39.640457+00:00"
   },
   "confluence_insurance_scams": {
-    "value": "Insurance scams section covers impersonation tactics and fraudulent activities related to Medicare card issuance (by Karolis \u017demaitis)",
-    "importance": 0.8,
-    "updated_at": "2026-04-10T05:28:44.778399+00:00"
+    "value": "Insurance scams section covers impersonation tactics and fraudulent activities related to Medicare card issuance by Rokas Skvereckas",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T05:29:38.459751+00:00"
   },
   "confluence_project_skia": {
-    "value": "Project Skia - Dark Web intelligence project page available in Confluence (by Karolis \u017demaitis)",
-    "importance": 0.8,
-    "updated_at": "2026-04-10T05:28:44.776672+00:00"
+    "value": "Project Skia - Dark Web intelligence project page available in Confluence by Karolis \u017demaitis",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T05:29:38.458278+00:00"
   },
   "confluence_services_dns_inventory": {
     "value": "Services DNS Inventory page provides details on services exposed via load balancers in the development environment.",
@@ -25,9 +25,9 @@
     "updated_at": "2026-04-10T05:26:53.795111+00:00"
   },
   "email_rejection": {
-    "value": "Rokas Skvereckas - Declined: Horizon Team Retro @ Fri Apr 10, 2026 2pm - 2:45pm (EEST) (Karolis \u017demaitis)",
-    "importance": 1.0,
-    "updated_at": "2026-04-10T05:28:44.769386+00:00"
+    "value": "Rokas Skvereckas - Declined: Horizon Team Retro @ Fri Apr 10, 2026 2pm \u2013 2:45pm (EEST)",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T05:29:38.452935+00:00"
   },
   "insurance_fraud_confluence_page": {
     "value": "Confluence page on insurance fraud detailing staged collisions (Swoop and Squat) in automotive fraud",
@@ -49,6 +49,11 @@
     "importance": 0.6,
     "updated_at": "2026-04-09T19:23:22.169541+00:00"
   },
+  "jira_ticket_update": {
+    "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Catarina Ferreira Cardoso de Sousa Graca (updated)",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T05:29:38.456526+00:00"
+  },
   "jira_update": {
     "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Catarina Ferreira Cardoso de Sousa Graca (update)",
     "importance": 0.9,
@@ -63,5 +68,10 @@
     "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
     "importance": 0.7,
     "updated_at": "2026-04-09T19:00:39.638186+00:00"
+  },
+  "slack_invitation_update": {
+    "value": "Sarunas Matulevicius - Updated invitation: Karolis / Sarunas Weekly @ Fri Apr 10, 2026 11:45am \u2013 12:15pm",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T05:29:38.454976+00:00"
   }
 }
