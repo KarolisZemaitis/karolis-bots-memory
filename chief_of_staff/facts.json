@@ -4,6 +4,16 @@
     "importance": 0.9,
     "updated_at": "2026-04-10T07:15:37.050426+00:00"
   },
+  "confluence_update_insurance_fraud": {
+    "value": "Rokas Skvereckas updated the Confluence page on Insurance Fraud.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:42:18.280004+00:00"
+  },
+  "confluence_update_project_skia": {
+    "value": "Karolis \u017demaitis updated the Confluence page on Project Skia.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:42:18.281197+00:00"
+  },
   "confluence_updates": {
     "value": "Rokas Skvereckas updated the Insurance Fraud page, covers impersonation tactics.",
     "importance": 0.6,
@@ -12,17 +22,17 @@
   "jira_update": {
     "value": "Catarina Ferreira Cardoso de Sousa Graca updated the JIRA ticket HZN-2381.",
     "importance": 0.7,
-    "updated_at": "2026-04-10T07:15:37.057486+00:00"
+    "updated_at": "2026-04-10T07:42:18.278744+00:00"
   },
   "meeting_acceptance": {
     "value": "Mindaugas Kvedaras accepted the Horizon Team Retro meeting.",
     "importance": 0.8,
-    "updated_at": "2026-04-10T07:15:37.054455+00:00"
+    "updated_at": "2026-04-10T07:42:18.271999+00:00"
   },
   "meeting_decline": {
     "value": "Rokas Skvereckas declined the Horizon Team Retro meeting.",
     "importance": 0.8,
-    "updated_at": "2026-04-10T07:15:37.052995+00:00"
+    "updated_at": "2026-04-10T07:42:18.275961+00:00"
   },
   "meeting_update": {
     "value": "Sarunas Matulevicius updated the invitation for the Karolis/Sarunas Weekly meeting.",
@@ -33,5 +43,10 @@
     "value": "Karolis \u017demaitis updated the Project Skia page.",
     "importance": 0.6,
     "updated_at": "2026-04-10T07:15:37.060917+00:00"
+  },
+  "weekly_meeting_update": {
+    "value": "Sarunas Matulevicius updated the invitation for the weekly meeting with Karolis.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:42:18.277451+00:00"
   }
 }
