@@ -20,9 +20,9 @@
     "updated_at": "2026-04-09T19:00:39.641289+00:00"
   },
   "confluence_updates": {
-    "value": "Project Skia - Dark Web intelligence project page available in Confluence; Insurance Fraud \u2014 Confluence page on insurance fraud detailing staged collisions (Swoop and Squat) in automotive fraud; Potential Keywords \u2014 Recent updates on potential keywords for various projects; services DNS inventory \u2014 Update by [user]; Insurance scams \u2014 Section covers impersonation tactics and fraudulent activities related to Medicare card issuance",
-    "importance": 1.0,
-    "updated_at": "2026-04-09T19:29:58.602744+00:00"
+    "value": "Project Skia (update by: )\nInsurance scams (section covers impersonation tactics and fraudulent activities related to Medicare card issuance)",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T05:26:53.795111+00:00"
   },
   "insurance_fraud_confluence_page": {
     "value": "Confluence page on insurance fraud detailing staged collisions (Swoop and Squat) in automotive fraud",
@@ -45,9 +45,9 @@
     "updated_at": "2026-04-09T19:23:22.169541+00:00"
   },
   "jira_updates": {
-    "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan \u2014 Update by Catarina Ferreira Cardoso de Sousa Graca; [JIRA] (DEV-4225) [Back end] Add new fields to xlsx export in Horizon \u2014 Update by Arkadiusz Kupiszowski",
-    "importance": 1.0,
-    "updated_at": "2026-04-09T19:29:58.596462+00:00"
+    "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Catarina Ferreira Cardoso de Sousa Graca (update)\n[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Jira",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T05:26:53.793778+00:00"
   },
   "phantombuster_notification": {
     "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
