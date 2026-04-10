@@ -70,6 +70,25 @@
     "importance": 0.6,
     "updated_at": "2026-04-10T08:44:05.287877+00:00"
   },
+  "specific_contact_information": {
+    "value": [
+      {
+        "name": "Consumer Financial Protection Bureau",
+        "website": "https://www.consumerfinance.gov/"
+      },
+      {
+        "name": "National Insurance Crime Bureau",
+        "website": "https://www.nicb.org/"
+      },
+      {
+        "name": "Insurance Bureau of Canada",
+        "website": "https://www.ibc.ca/"
+      }
+    ],
+    "written_by": "reddit",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:46:49.884270+00:00"
+  },
   "vehicle_insurance_scam_insights": {
     "value": {
       "common_scams": [
