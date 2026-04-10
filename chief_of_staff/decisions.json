@@ -8,5 +8,10 @@
     "value": "There was an issue with the previous briefing attempt, but a new full briefing has been initiated successfully.",
     "importance": 0.8,
     "updated_at": "2026-04-09T18:52:34.595455+00:00"
+  },
+  "learning_over_time": {
+    "value": "Assistant will learn and improve the relevance of the 'NEEDS YOUR ATTENTION' section in future briefings based on gathered information.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:21:43.221015+00:00"
   }
 }
