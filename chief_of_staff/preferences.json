@@ -1,4 +1,9 @@
 {
+  "briefing_bot_instructions": {
+    "value": "User has made specific instructions and guidelines for the Briefing Bot on how the briefing should be done. Do not over-instruct the bot when requesting a briefing.",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T07:59:29.631249+00:00"
+  },
   "flirt_mode": {
     "value": "Karolis prefers the assistant to be flirty when talking to him.",
     "importance": 0.8,
