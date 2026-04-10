@@ -1,4 +1,10 @@
 {
+  "daily_briefing_schedule": {
+    "value": "Daily briefing should be generated automatically every workday at 8 AM.",
+    "written_by": "chief_of_staff",
+    "importance": 0.5,
+    "updated_at": "2026-04-10T05:30:13.152952+00:00"
+  },
   "goals_summary": {
     "value": "Goals are efficiency management, communication intelligence through briefings, task execution without unnecessary delegation, and effective error handling.",
     "written_by": "chief_of_staff",
