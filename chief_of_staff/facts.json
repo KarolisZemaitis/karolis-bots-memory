@@ -1,0 +1,37 @@
+{
+  "briefing_date": {
+    "value": "April 10, 2026",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T07:15:37.050426+00:00"
+  },
+  "confluence_updates": {
+    "value": "Rokas Skvereckas updated the Insurance Fraud page, covers impersonation tactics.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:15:37.059493+00:00"
+  },
+  "jira_update": {
+    "value": "Catarina Ferreira Cardoso de Sousa Graca updated the JIRA ticket HZN-2381.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:15:37.057486+00:00"
+  },
+  "meeting_acceptance": {
+    "value": "Mindaugas Kvedaras accepted the Horizon Team Retro meeting.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T07:15:37.054455+00:00"
+  },
+  "meeting_decline": {
+    "value": "Rokas Skvereckas declined the Horizon Team Retro meeting.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T07:15:37.052995+00:00"
+  },
+  "meeting_update": {
+    "value": "Sarunas Matulevicius updated the invitation for the Karolis/Sarunas Weekly meeting.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:15:37.055774+00:00"
+  },
+  "project_update": {
+    "value": "Karolis \u017demaitis updated the Project Skia page.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:15:37.060917+00:00"
+  }
+}
