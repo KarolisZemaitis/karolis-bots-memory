@@ -10,5 +10,11 @@
     "written_by": "chief_of_staff",
     "importance": 0.5,
     "updated_at": "2026-04-10T05:27:34.994452+00:00"
+  },
+  "next_steps": {
+    "value": "Consider posting in subreddits like r/Scams or r/legaladvice asking for recommendations on who to contact regarding vehicle insurance scams.",
+    "written_by": "reddit",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:44:10.763126+00:00"
   }
 }
