@@ -39,15 +39,35 @@
     "importance": 0.8,
     "updated_at": "2026-04-10T07:58:09.645737+00:00"
   },
+  "email_horizon_team_retro_accepted_catarina": {
+    "value": "Catarina Ferreira Cardoso de Sousa Graca accepted the invitation to the Horizon Team Retro on April 10, 2026.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T08:02:19.325105+00:00"
+  },
+  "email_horizon_team_retro_accepted_mindaugas": {
+    "value": "Mindaugas Kvedaras accepted the invitation to the Horizon Team Retro on April 10, 2026.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T08:02:19.329019+00:00"
+  },
   "email_horizon_team_retro_declined": {
     "value": "Rokas Skvereckas declined the invitation to the Horizon Team Retro meeting on April 10, 2026.",
     "importance": 0.8,
     "updated_at": "2026-04-10T07:58:09.652523+00:00"
   },
+  "email_horizon_team_retro_declined_rokas": {
+    "value": "Rokas Skvereckas declined the invitation to the Horizon Team Retro on April 10, 2026.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T08:02:19.332595+00:00"
+  },
   "email_meeting_time_change": {
     "value": "The meeting time for Karolis / Sarunas Weekly has been changed to Fri Apr 10, 2026 11:45am - 12:15pm (EEST).",
     "importance": 0.6,
     "updated_at": "2026-04-10T07:58:09.654210+00:00"
+  },
+  "email_meeting_update_sarunas": {
+    "value": "Sarunas Matulevicius updated the invitation for the Karolis / Sarunas Weekly meeting on April 10, 2026.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T08:02:19.334271+00:00"
   },
   "email_rejection": {
     "value": "Rokas Skvereckas - Declined: Horizon Team Retro @ Fri Apr 10, 2026 2pm \u2013 2:45pm (EEST)",
@@ -68,6 +88,11 @@
     "value": "Discussion in #insurance-fraud-squad included insights from a call with Katerina and Rokas regarding insurance fraud.",
     "importance": 0.5,
     "updated_at": "2026-04-10T07:42:04.300182+00:00"
+  },
+  "insurance_fraud_update": {
+    "value": "Insurance Fraud section updated by Rokas Skvereckas, covering tactics and fraudulent activities related to Medicare card issuance.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:02:19.338906+00:00"
   },
   "insurance_scams_confluence_page": {
     "value": "Confluence page on insurance scams covering impersonation tactics and fraudulent activities related to Medicare card issuance",
@@ -100,9 +125,9 @@
     "updated_at": "2026-04-10T07:42:04.301457+00:00"
   },
   "jira_update_hzn_2381": {
-    "value": "Catarina Ferreira Cardoso de Sousa Graca updated ticket HZN-2381 regarding the preparation of fresh VASP data collection automation plans.",
+    "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan updated by Catarina Ferreira Cardoso de Sousa Graca; no blockers noted.",
     "importance": 0.7,
-    "updated_at": "2026-04-10T07:58:09.658128+00:00"
+    "updated_at": "2026-04-10T08:02:19.336026+00:00"
   },
   "jira_updates": {
     "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Catarina Ferreira Cardoso de Sousa Graca (update)\n[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Jira",
@@ -128,6 +153,11 @@
     "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
     "importance": 0.7,
     "updated_at": "2026-04-09T19:00:39.638186+00:00"
+  },
+  "project_skia_update": {
+    "value": "Project Skia updated by Karolis \u017demaitis, relevant for ongoing Dark Web intelligence efforts.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:02:19.337468+00:00"
   },
   "slack_invitation_update": {
     "value": "Sarunas Matulevicius - Updated invitation: Karolis / Sarunas Weekly @ Fri Apr 10, 2026 11:45am \u2013 12:15pm",
