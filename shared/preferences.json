@@ -40,5 +40,11 @@
     "written_by": "chief_of_staff",
     "importance": 0.8,
     "updated_at": "2026-04-09T18:47:59.614864+00:00"
+  },
+  "subreddits_for_exploration": {
+    "value": "Suggested subreddits for further exploration include r/Scams, r/Insurance, and r/legaladvice. Consider searching on broader subreddits like r/Scams or r/Insurance for more user experiences and potential contacts.",
+    "written_by": "reddit",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T08:44:09.440713+00:00"
   }
 }
