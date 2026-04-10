@@ -5,6 +5,17 @@
     "importance": 0.5,
     "updated_at": "2026-04-10T05:30:13.152952+00:00"
   },
+  "engagement_recommendations": {
+    "value": {
+      "post_in_reddit": "Ask for recommendations on where to report scams.",
+      "use_local_social_media": "Engage with local Facebook groups or community boards.",
+      "network_with_local_authorities": "Reach out to law enforcement or community watch programs.",
+      "monitor_fraud_alerts": "Keep an eye on alerts from BBB and state insurance websites."
+    },
+    "written_by": "reddit",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:46:47.925305+00:00"
+  },
   "goals_summary": {
     "value": "Goals are efficiency management, communication intelligence through briefings, task execution without unnecessary delegation, and effective error handling.",
     "written_by": "chief_of_staff",
