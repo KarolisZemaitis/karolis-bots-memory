@@ -5,9 +5,9 @@
     "updated_at": "2026-04-09T19:00:39.640457+00:00"
   },
   "confluence_insurance_fraud_update": {
-    "value": "Rokas Skvereckas updated the Insurance Fraud section on Confluence, covering impersonation tactics and fraudulent activities related to Medicare card issuance.",
-    "importance": 0.8,
-    "updated_at": "2026-04-10T07:15:28.602900+00:00"
+    "value": "Rokas Skvereckas updated the Insurance Fraud section covering tactics and fraudulent activities related to Medicare card issuance.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:42:04.302482+00:00"
   },
   "confluence_insurance_scams": {
     "value": "Insurance scams section covers impersonation tactics and fraudulent activities related to Medicare card issuance by Rokas Skvereckas",
@@ -20,9 +20,9 @@
     "updated_at": "2026-04-10T05:29:38.458278+00:00"
   },
   "confluence_project_skia_update": {
-    "value": "Karolis \u017demaitis updated Project Skia on Confluence, which details the Dark Web intelligence project.",
-    "importance": 0.8,
-    "updated_at": "2026-04-10T07:15:28.603998+00:00"
+    "value": "Karolis \u017demaitis updated Project Skia on Confluence, detailing the Dark Web intelligence project.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:42:04.303565+00:00"
   },
   "confluence_services_dns_inventory": {
     "value": "Services DNS Inventory page provides details on services exposed via load balancers in the development environment.",
@@ -59,6 +59,11 @@
     "importance": 0.6,
     "updated_at": "2026-04-09T19:14:21.377434+00:00"
   },
+  "insurance_fraud_insights": {
+    "value": "Discussion in #insurance-fraud-squad included insights from a call with Katerina and Rokas regarding insurance fraud.",
+    "importance": 0.5,
+    "updated_at": "2026-04-10T07:42:04.300182+00:00"
+  },
   "insurance_scams_confluence_page": {
     "value": "Confluence page on insurance scams covering impersonation tactics and fraudulent activities related to Medicare card issuance",
     "importance": 0.5,
@@ -85,14 +90,29 @@
     "updated_at": "2026-04-10T05:28:44.772885+00:00"
   },
   "jira_update_hzn-2381": {
-    "value": "Catarina Ferreira Cardoso de Sousa Graca made an update on JIRA ticket HZN-2381 regarding the VASP data collection automations plan.",
-    "importance": 0.9,
-    "updated_at": "2026-04-10T07:15:28.601754+00:00"
+    "value": "Ticket HZN-2381 was updated by Catarina Ferreira Cardoso de Sousa Graca regarding the VASP data collection automations plan.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:42:04.301457+00:00"
   },
   "jira_updates": {
     "value": "[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Catarina Ferreira Cardoso de Sousa Graca (update)\n[JIRA] (HZN-2381) [SPIKE] prep fresh VASP data collection automations plan - Jira",
     "importance": 0.7,
     "updated_at": "2026-04-10T05:26:53.793778+00:00"
+  },
+  "meeting_horizon_team_retro": {
+    "value": "Mindaugas Kvedaras confirmed attendance for the Horizon Team Retro on Apr 10, 2026.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:42:04.294495+00:00"
+  },
+  "meeting_horizon_team_retro_decline": {
+    "value": "Rokas Skvereckas declined attendance for the Horizon Team Retro on Apr 10, 2026.",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:42:04.296919+00:00"
+  },
+  "meeting_time_change": {
+    "value": "Sarunas Matulevicius updated the invitation for the Karolis / Sarunas Weekly meeting to Apr 10, 2026, from 11:45am to 12:15pm (EEST).",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:42:04.298596+00:00"
   },
   "phantombuster_notification": {
     "value": "Phantombuster's service is ready for use and can help with finding leads and growing the audience.",
