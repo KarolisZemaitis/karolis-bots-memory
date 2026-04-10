@@ -1,4 +1,9 @@
 {
+  "briefing_channel_preference": {
+    "value": "User prefers briefings to be posted in the 'briefing' Slack channel and only wants a confirmation here.",
+    "importance": 1.0,
+    "updated_at": "2026-04-10T07:55:47.866888+00:00"
+  },
   "email_unread_count": {
     "value": "48 unread emails across G Suite, Slack, Jira, and Confluence",
     "importance": 0.7,
