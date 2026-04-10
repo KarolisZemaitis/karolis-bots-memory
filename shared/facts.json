@@ -11,10 +11,28 @@
     "importance": 0.5,
     "updated_at": "2026-04-10T07:53:35.431470+00:00"
   },
+  "insurance_fraud_update": {
+    "value": "Rokas Skvereckas updated the Insurance Fraud section, covering tactics and fraudulent activities related to Medicare card issuance.",
+    "written_by": "chief_of_staff",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:58:28.931966+00:00"
+  },
   "jira_update_hzn_2381": {
     "value": "Catarina Ferreira Cardoso de Sousa Graca updated ticket HZN-2381 regarding the preparation of fresh VASP data collection automation plans.",
     "written_by": "briefing",
     "importance": 0.7,
     "updated_at": "2026-04-10T07:53:37.138458+00:00"
+  },
+  "meeting_acceptance": {
+    "value": "Mindaugas Kvedaras accepted the invitation to the Horizon Team Retro meeting on April 10, 2026.",
+    "written_by": "chief_of_staff",
+    "importance": 0.5,
+    "updated_at": "2026-04-10T07:58:23.528315+00:00"
+  },
+  "project_skia_update": {
+    "value": "Karolis \u017demaitis updated the Project Skia, detailing the Dark Web intelligence project.",
+    "written_by": "chief_of_staff",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T07:58:30.861759+00:00"
   }
 }
