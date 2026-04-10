@@ -1,8 +1,13 @@
 {
+  "confluence_insurance_fraud": {
+    "value": "Insurance Fraud page updated by Rokas Skvereckas contains important insights on fraud tactics.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:58:09.663891+00:00"
+  },
   "confluence_project_skia": {
-    "value": "Project Skia - Dark Web intelligence project page available in Confluence",
-    "importance": 0.8,
-    "updated_at": "2026-04-09T19:14:21.375643+00:00"
+    "value": "Project Skia updated by Karolis \u017demaitis is relevant for ongoing Dark Web intelligence efforts.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:58:09.662499+00:00"
   },
   "confluence_recent_updates": {
     "value": "Recent updates on Confluence pages include Project Skia and Potential Keywords.",
