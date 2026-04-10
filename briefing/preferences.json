@@ -4,6 +4,16 @@
     "importance": 0.7,
     "updated_at": "2026-04-09T19:14:21.370368+00:00"
   },
+  "slack_access_policy": {
+    "value": "User needs 'view-only' access to all Slack channels they can see, but only write in the 'briefing' channel.",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T07:27:13.959916+00:00"
+  },
+  "slack_analysis_focus": {
+    "value": "Analyze Slack content for important cases related to user's work, focusing on conversations where someone is waiting for a reply or where user is blocking someone.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T07:27:13.962614+00:00"
+  },
   "slack_join": {
     "value": "#briefing - U0ASRF6N1LG has joined the 'briefing' channel",
     "importance": 0.8,
@@ -18,5 +28,10 @@
     "value": "User U0ASRF6N1LG has joined the 'briefing' channel.",
     "importance": 0.8,
     "updated_at": "2026-04-09T19:23:22.165937+00:00"
+  },
+  "slack_user_identifiers": {
+    "value": "Use names instead of Slack user identifiers when analyzing cases.",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T07:27:13.965308+00:00"
   }
 }
