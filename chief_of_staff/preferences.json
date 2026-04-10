@@ -4,6 +4,16 @@
     "importance": 0.8,
     "updated_at": "2026-04-09T18:29:06.626041+00:00"
   },
+  "slack_access_request": {
+    "value": "User requests 'view-only' access to all Slack channels but only writing in 'briefing' channel.",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T07:21:43.214543+00:00"
+  },
+  "slack_analysis_focus": {
+    "value": "User wants important cases analyzed in Slack, particularly where they are blocking someone or where someone is waiting for a reply.",
+    "importance": 0.9,
+    "updated_at": "2026-04-10T07:21:43.218428+00:00"
+  },
   "task_completion_response": {
     "value": "Always respond when a task is completed.",
     "importance": 1.0,
