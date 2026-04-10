@@ -1,4 +1,20 @@
 {
+  "common_vehicle_insurance_scam_tactics": {
+    "value": [
+      "Low Premium Offers: Scammers lure victims with unusually low premiums.",
+      "Urgent Requests for Information: Scammers create urgency to obtain personal details.",
+      "Unlicensed Agents: Offers from agents who are not licensed are often suspicious."
+    ],
+    "written_by": "reddit",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:29:53.030262+00:00"
+  },
+  "contact_information_availability": {
+    "value": "No specific contacts for reporting scams or assistance were found in the discussed thread.",
+    "written_by": "reddit",
+    "importance": 0.6,
+    "updated_at": "2026-04-10T08:29:57.691461+00:00"
+  },
   "email_horizon_team_retro_accepted": {
     "value": "Mindaugas Kvedaras accepted the invitation to the Horizon Team Retro meeting on April 10, 2026.",
     "written_by": "briefing",
@@ -34,5 +50,18 @@
     "written_by": "chief_of_staff",
     "importance": 0.6,
     "updated_at": "2026-04-10T07:58:30.861759+00:00"
+  },
+  "reddit_vehicle_insurance_scam_thread": {
+    "value": {
+      "title": "Is this an insurance scam",
+      "subreddit": "r/indianbikes",
+      "upvotes": 5,
+      "comments": 8,
+      "url": "https://reddit.com/r/indianbikes/comments/1sgj6g5/is_this_an_insurance_scam",
+      "summary": "Discussion on suspicious insurance offers and tactics used by scammers."
+    },
+    "written_by": "reddit",
+    "importance": 0.7,
+    "updated_at": "2026-04-10T08:29:51.477989+00:00"
   }
 }
