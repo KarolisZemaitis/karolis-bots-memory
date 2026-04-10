@@ -4,6 +4,11 @@
     "importance": 0.7,
     "updated_at": "2026-04-09T19:14:21.370368+00:00"
   },
+  "slack_join": {
+    "value": "#briefing - U0ASRF6N1LG has joined the 'briefing' channel",
+    "importance": 0.8,
+    "updated_at": "2026-04-10T05:28:44.775153+00:00"
+  },
   "slack_joins": {
     "value": "#briefing - U0ASRF6N1LG has joined the 'briefing' channel.",
     "importance": 0.8,
